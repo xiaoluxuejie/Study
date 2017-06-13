@@ -2,5 +2,5 @@
 > 九江学院互助资料分类
 
 [考研资料](https://github.com/xiaoluxuejie/Study/blob/master/KaoYan.md)
-[考证资料](https://github.com/xiaoluxuejie/Study/blob/master/XueXi.md)
+[考证资料](https://github.com/xiaoluxuejie/Study/blob/master/KaoZheng.md)
 [学习资料](https://github.com/xiaoluxuejie/Study/blob/master/XueXi.md)
